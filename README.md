@@ -1,2 +1,2 @@
 # rsschool-cv
-init: start task Markdown &amp; Git
+https://avshir.github.io/rsschool-cv/cv
