@@ -11,7 +11,7 @@ I'm interested in the process of creating sites, web applications and programmin
 
 ## Skills:
 
-- HTML5/CSS3, SCSS, JavaScript (studying)
+- HTML5/CSS3, SASS/SCSS, BEM, JavaScript (studying)
 - Figma, Avocode
 - VS Code, Git
 
