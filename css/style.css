@@ -537,4 +537,26 @@ body.lock {
     height: 20px;
   }
 }
+@media (max-width: 560px) {
+  .container {
+    max-width: 320px;
+  }
+	.header__row {
+    flex-direction: column-reverse;
+}
+	.header__name {
+		font-size: 26px;
+	}
+	.header__name span {
+    font-size: 30px;
+	}
+	.main__sm {
+		display: block;
+	}
+	.header__job {
+    color: #2d2f31;
+    background-color: #dcdcdc;
+}
+
+}
 /*---/media--- */
