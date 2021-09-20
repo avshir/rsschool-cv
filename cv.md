@@ -5,7 +5,7 @@
 ## Contacts:
 
 **e-mail:** av.shirinskaya@gmail.com  
-**dicord:** Anna Sh#6704  
+**discord:** Anna Sh#6704  
 **location:** Minsk, Belarus
 
 ## About:
