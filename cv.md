@@ -1,6 +1,7 @@
 # Anna Shirinskaya
 
 **Junior Frontend Developer**
+
 ## Contacts:
 
 **e-mail:** av.shirinskaya@gmail.com  
@@ -13,9 +14,11 @@ I'm interested in the process of creating sites, web applications and programmin
 
 ## Skills:
 
-- HTML5/CSS3, SASS/SCSS, BEM, JavaScript (studying)
+- HTML5, CSS3
+- JavaScript (in progress)
+- Git, GitHub 
+- VS Code
 - Figma, Avocode
-- VS Code, Git
 
 ## Code example:
 
@@ -32,7 +35,7 @@ My project: [website for dance club "Antre"](http://avshirco.electra.hostflyby.n
 
 ## Education:
 
-- 2021 RS School Frontend-developing (in process)
+- 2021 RS School Frontend-developing (in progress)
 - 2020 Certificate "Website development with HTML, CSS & JavaScript" from IT-Academy "Educational Center for Programming and High Tech" Minsk, Belarus
 - 2006 Graduated from Belarusian State University of Informatics and Radioelectronics" branch ["Minsk Radio Engineering College"](https://www.mrk-bsuir.by/en)
 
