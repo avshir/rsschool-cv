@@ -1,8 +1,10 @@
 # Anna Shirinskaya
+
+**Junior Frontend Developer**
 ## Contacts:
 
 **e-mail:** av.shirinskaya@gmail.com  
-**dicord:** Anna Sh#6704  
+**discord:** Anna Sh#6704  
 **location:** Minsk, Belarus
 
 ## About:
@@ -17,8 +19,11 @@ I'm interested in the process of creating sites, web applications and programmin
 
 ## Code example:
 
-```
-const greet = (name) => console.log(`Hello, ${name}!`);
+```javascript
+function highAndLow(numbers){
+  const arr = numbers.split(' ').sort((a, b) => b - a);
+  return `${arr[0]} ${arr[arr.length - 1]}`
+}
 ```
 
 ## Work experience:
