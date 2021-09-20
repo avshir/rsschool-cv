@@ -1,6 +1,6 @@
 # Anna Shirinskaya
 
-### Junior Frontend Developer
+**Junior Frontend Developer**
 
 ## Contacts:
 
